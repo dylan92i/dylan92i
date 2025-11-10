@@ -67,4 +67,12 @@
 ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-FF8C00?style=for-the-badge&logo=none)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-32CD32?style=for-the-badge&logo=none)
 
+---
+
+🛡️ **Copyright © 2025 "nice try , stop stilling, do urs "**
+
+Ce contenu (README et autres fichiers de ce dépôt) est protégé par le droit d’auteur.  
+**Toute reproduction, modification ou distribution est interdite sans autorisation écrite.**
+
+<!-- Signature: "nice try , stop stilling, do urs " — Créé le 10/11/2025 -->
 
