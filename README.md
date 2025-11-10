@@ -8,15 +8,17 @@
   <b>𝕄𝔼 &nbsp; 𝔸ℕ𝔻 &nbsp; 𝔸𝕀</b>
 </p>
 
-        
-- 🎭 Motto: *"We need to be crazy — sanity doesn’t scale innovation."*
+- 🎭 Motto: *"We need to be crazy — sanity doesn’t scale innovation."*   
+<p title="If you found this, you're already inside the neural net.">
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-green?style=for-the-badge">
+</p>
 
 ---
 
 > boot sequence initiated...  
 > scanning Dylan_92i system files...  
 > identity: AI engineer, data rebel  
-> loading neural weights... ██████████████████ 100%  
+> loading neural weights... ██████████████████ 99,9%  
 > status: CHAOTIC STABILITY 🟢
 
 ### ⚙️ The Stack
