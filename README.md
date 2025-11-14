@@ -6,7 +6,6 @@
 </p>
 <p align="center">
   <b>𝕄𝔼 &nbsp; 𝔸ℕ𝔻 &nbsp; 𝔸𝕀</b>
-  <img width="341" height="413" alt="image" src="https://github.com/user-attachments/assets/3bb8fd03-3514-475d-b722-78253863c924" />
 </p>
 
 - 🎭 Motto: *"We need to be crazy — sanity doesn’t scale innovation."*   
@@ -73,5 +72,5 @@
 Ce contenu (README et autres fichiers de ce dépôt) est protégé par le droit d’auteur.  
 **Toute reproduction, modification ou distribution est interdite sans autorisation écrite.**
 
-<!-- Signature: "nice try , u can do it , please do urs " — Créé le 07/11/2023 -->
+<!-- Signature: "nice try , u can do it , please do urs " — Créé le 07/Mars/2023 -->
 
