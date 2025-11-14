@@ -6,19 +6,19 @@
 </p>
 <p align="center">
   <b>𝕄𝔼 &nbsp; 𝔸ℕ𝔻 &nbsp; 𝔸𝕀</b>
+  <img width="341" height="413" alt="image" src="https://github.com/user-attachments/assets/3bb8fd03-3514-475d-b722-78253863c924" />
 </p>
 
 - 🎭 Motto: *"We need to be crazy — sanity doesn’t scale innovation."*   
-<p title="If you found this, you're already inside the neural net.">
+<p title="This is my new account.If you found this, you're already inside the neural net.">
   <img src="https://img.shields.io/badge/ACCESS-GRANTED-green?style=for-the-badge">
 </p>
-
 ---
-
-> boot sequence initiated...  
+> boot sequence initiated...-_-
+> Welcome , that's my new account :)
 > scanning Dylan_92i system files...  
-> identity: AI engineer, data rebel  
-> loading neural weights... ██████████████████ 99,9%  
+> identity: AI engineer, data rebel ;) 
+> loading neural weights... ██████████████████ 99,9%  (almost...)
 > status: CHAOTIC STABILITY 🟢
 
 ### ⚙️ The Stack
@@ -68,11 +68,10 @@
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-32CD32?style=for-the-badge&logo=none)
 
 ---
-
-🛡️ **Copyright © 2025 "nice try , stop stilling, do urs "**
+🛡️ **Copyright © 2025 Nice try , stop stealing, do urs please**
 
 Ce contenu (README et autres fichiers de ce dépôt) est protégé par le droit d’auteur.  
 **Toute reproduction, modification ou distribution est interdite sans autorisation écrite.**
 
-<!-- Signature: "nice try , stop stilling, do urs " — Créé le 10/11/2025 -->
+<!-- Signature: "nice try , u can do it , please do urs " — Créé le 07/11/2023 -->
 
