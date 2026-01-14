@@ -17,6 +17,8 @@
 > Welcome , that's my new account :)
 > scanning Dylan_92i system files...  
 > identity: AI engineer, data rebel ;) 
+
+
 > loading neural weights... ██████████████████ 99,9%  (almost...)
 > status: CHAOTIC STABILITY 🟢
 
